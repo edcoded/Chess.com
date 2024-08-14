@@ -2,7 +2,7 @@ For those frustrated by chess.com's recent Review Game changes, the following is
 
 1). Install the 'TamperMonkey' browser extension.
 
-2). Enable developer mode: Go to;    chrome://extensions    there's a button in the top right corner.
+2). Enable developer mode: Go to;    chrome://extensions    (there's a button in the top right corner)
 
 3). Click on the TamperMonkey extension icon and select 'Create a new script...'
 
