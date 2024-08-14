@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/edcoded/Chess.com/main/Chess.com%20Move%20Bubb
 
 5). *** IMPORTANT *** go to a game, click 'Start Review' and then once you go get to Move 1 (move=1) REFRESH THE PAGE! If nothing happens, click on the TamperMonkey icon again and make sure the script is Enabled. 
 
-6). This should create the space required to see both Move Bubbles at the same time going forward. (to begin with the extra space is a little redundant as there often isn't a best move to show in the opening but you'll just have to live with that)
+6). This should create the space required to see both Move Bubbles at the same time going forward, without the need for incessant scrolling. (to begin with the extra space is a little redundant as there often isn't a best move to show in the opening but you'll just have to live with that)
 
 7). The Code; make sure that // ==UserScript== is on line 1 of the TamperMonkey editor.
 8). Happy Reviewing!
