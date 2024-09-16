@@ -4,7 +4,7 @@
 // @version      2024-08-10
 // @description  Displays Move Played & Best Move Bubble Simultaneously *** ONCE YOU GET TO MOVE=1, REFRESH THE PAGE AND THEN YOU'RE GOOD TO GO! ***
 // @author       ChatGPT / 3dmo
-// @match        https://www.chess.com/analysis/game/live/*
+// @match        https://www.chess.com/analysis/game/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=chess.com
 // @grant        none
 // ==/UserScript==
