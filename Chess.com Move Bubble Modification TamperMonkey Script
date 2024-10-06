@@ -15,8 +15,8 @@
     // Wait 3 seconds before attempting to modify the elements
     setTimeout(function() {
         var feedbackComponent = document.querySelector('.move-feedback-component');
-        var feedbackWrapper = document.querySelector('.move-feedback-v1-wrapper');
-        // adding in 'v1-' to line 18 to account for recent changes to Chess.com (updated 06-Oct-24)
+        var feedbackWrapper = document.querySelector('.move-feedback-wrapper');
+        
         console.log('Checking for elements after delay...');
 
         if (feedbackComponent) {
@@ -27,10 +27,10 @@
         }
 
         if (feedbackWrapper) {
-            console.log('Found move-feedback-v1-wrapper');
+            console.log('Found move-feedback-wrapper');
             feedbackWrapper.style.overflowY = 'initial';
         } else {
-            console.log('move-feedback-v1-wrapper not found');
+            console.log('move-feedback-wrapper not found');
         }
     }, 3000); // Delay of 3000ms (3 seconds)
 })();
