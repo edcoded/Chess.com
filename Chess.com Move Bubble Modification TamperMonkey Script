@@ -14,8 +14,8 @@
 
     // Wait 3 seconds before attempting to modify the elements
     setTimeout(function() {
-        var feedbackComponent = document.querySelector('.move-feedback-v1-component');
-        var feedbackWrapper = document.querySelector('.move-feedback-wrapper');
+        var feedbackComponent = document.querySelector('.move-feedback-component');
+        var feedbackWrapper = document.querySelector('.move-feedback-v1-wrapper');
         
         console.log('Checking for elements after delay...');
 
